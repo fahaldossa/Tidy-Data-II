@@ -1,0 +1,16 @@
+No.	Name	Pos	Ht	Wt	
+0	Jayson Tatum	PF	6-8	210	
+7	Jaylen Brown	SF	6-6	223	
+9	Derrick White	SG	6-4	190	
+11	Payton Pritchard	PG	6-1	195	
+12	Grant Williams	PF	6-6	236	
+13	Malcolm Brogdon	PG	6-5	229	
+20	JD Davison	PG	6-3	195	
+28	Mfiondu Kabengele	PF	6-9	250	
+30	Sam Hauser	PF	6-8	215	
+36	Marcus Smart	PG	6-3	220	
+40	Luke Kornet	C	7-2	250	
+42	Al Horford	C	6-9	240	
+44	Robert Williams	C	6-9	237	
+57	Mike Muscala	C	6-10	240	
+91	Blake Griffin	C	6-9	250	
